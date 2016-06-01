@@ -1,0 +1,58 @@
+#header{
+    background-color:#f7d651;
+    height: 100px;
+    width:600px;
+    margin:auto;
+    text-align:center;
+    border: 2px solid black;   
+}
+
+.body{
+    height: 50px;
+    width:600px;
+    margin:auto;
+    text-align: center;
+}
+table{
+    margin:auto;
+}
+h3{
+    text-align: center;
+}
+a:hover{
+    font-weight:bold;
+    color:blue;
+    float:both
+}
+a:link{
+    text-decoration:none;
+    font-family:cursive;
+    color:black
+}
+.button{
+	border-radius: 5px;
+	border: 2px solid #3d9e92;
+	background-color: #75efe1;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+	bottom : 0;
+}
+.returnbutton{
+    display:inline-block;
+    height: 50px;
+	width: 120px;
+	border:2px solid;
+    text-align:center;
+    background-color: #75efe1
+}
+
+.info{
+    color:grey;
+    border:2px solid black
+}
+.bottom{
+    margin:auto;
+    
+}
